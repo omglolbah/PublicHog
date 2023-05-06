@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RA58XqAYJ7ZIGIhQEXFi8guezMkVFJHUpk1iPAjc3Fo2vC2ey9eQcbRp5pr3U9XDtvlpw8VUgQxv7T1K51gsew==",
+  "success": true,
+  "projectFilePath": "C:\\GitHub\\PublicHog\\XaeroToJourneyMap\\XaeroToJourneyMap\\XaeroToJourneyMap.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
